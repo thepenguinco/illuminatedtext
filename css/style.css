@@ -1,9 +1,23 @@
 body {
-  font-family: 'Tangerine', serif;
-  font-size: 28px;
+  font-family: 'Tangerine', sans-serif , serif;
+  text-align: center;
   text-shadow: 1px 1px 1px #aaa;
+  margin-left: 20%;
+  margin-right: 20%;
 }
 
 a {
   /*text-decoration: none;*/
+}
+
+h1 {
+  font-size: 56px;
+}
+
+p {
+  font-size: 46px;
+}
+
+.works {
+  font-family: sans-serif;
 }
